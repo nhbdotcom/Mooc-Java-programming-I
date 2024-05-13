@@ -6,7 +6,10 @@ public class Greeting {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Write your program here
+        // User named input will be stored here
+        String name = scanner.nextLine();
+
+        
 
     }
 }
