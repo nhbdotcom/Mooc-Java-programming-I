@@ -7,7 +7,7 @@ public class Greeting {
         Scanner scanner = new Scanner(System.in);
 
         String greet = "Hi ";
-        System.out.println("What's you name?");
+        System.out.println("What's your name?");
         // User named input will be stored here
         String name = scanner.nextLine();
 
