@@ -8,6 +8,10 @@ public class VariousVariables {
         double baconWeight = 5.5;
         String tractor = "None!";
 
+        numberOfChicken = 9000;
+        baconWeight = 0.1;
+        tractor = "Zetor";
+
         // DON'T MODIFY THESE:
         System.out.println("Chicken:");
         System.out.println(numberOfChicken);
